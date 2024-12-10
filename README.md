@@ -8,7 +8,7 @@
   </a>
 <div align="center">
   <a href="#" rel="nofollow">
-    <img src="https://img.shields.io/badge/Coded%20By-FF0000?style=for-the-badge&logo=Coded%20By&logoColor=white" alt="Code By" />
+    <img src="https://img.shields.io/badge/Coded%20By-FF0000?style=for-the-badge&logo=Code%20By&logoColor=white" alt="Code By" />
   </a>
 
    <a href="#" rel="nofollow">
