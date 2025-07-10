@@ -7,13 +7,13 @@
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Indonesia-FFFFFF?style=for-the-badge&logo=Indonesia&logoColor=white" alt="Indonesia" />
-  </a>
+  </a><br>
   <a href="#">
     <img src="https://img.shields.io/badge/Code%20By-FF0000?style=for-the-badge&logo=Code%20By&logoColor=white" alt="Code By" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/ZRIII%2027%20DEVELOPER-FFFFFF?style=for-the-badge&logo=developer&logoColor=white" alt="ZRIII 27 DEVELOPER" />
-  </a>
+  </a><br>
   <a href="#">
     <img src="https://img.shields.io/badge/WEBSITE%20BUCIN-FF0000?style=for-the-badge&logo=web&logoColor=white" alt="WEBSITE BUCIN" />
   </a>
