@@ -15,7 +15,7 @@
 <div style="font-size: 16px; max-width: 650px; text-align: center;">
 I’m Fadzri, a passionate Front-End Developer who loves turning ideas into smooth, modern, and visually engaging user interfaces. I specialize in building interactive, responsive, and high-performance web experiences using React, Tailwind CSS, and Framer Motion.
 
-With a strong eye for design and detail, I combine clean UI/UX principles with futuristic aesthetics — gradients, glassmorphism, soft shadows, and micro-interactions.
+With a strong eye for design and detail, I combine clean UI/UX principles with futuristic aesthetics — gradien2025ts, glassmorphism, soft shadows, and micro-interactions.
 My focus is always on clarity, speed, accessibility, and great user experience.
 
 I enjoy:
@@ -51,7 +51,7 @@ Visual Studio Code | Git | Laravel | TailwindCSS | Prisma | Figma
 
 ---
 
-## ✨ **2025 Futuristic Waves**
+## ✨ **2026 Futuristic Waves**
 <img src="https://i.ibb.co/McC4LZk/animated-waves.gif" width="100%" />
 
 ---
